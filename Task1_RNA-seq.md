@@ -1,6 +1,6 @@
 **RNA-Seq**
 
-**Author: Mohammed Dahab (@M\_Dahab7)**
+**Mohammed Dahab (@M\_Dahab7)**
 
 **Introduction**
 
@@ -10,7 +10,7 @@ RNA sequencing (RNA-seq) has profoundly transformed bioinformatics by enabling a
 
 RNA-seq technology encompasses several critical steps: RNA extraction, synthesis of cDNA, library preparation, sequencing, and subsequent data analysis. The transcriptome is highly complex and includes various types of both coding and noncoding RNA molecules. The choice between short-read and long-read sequencing technologies plays a significant role in RNA-seq study outcomes. While short-read sequencing is cost-effective, it often faces challenges in accurately assembling complex transcripts due to its fragmented reads. On the other hand, long-read sequencing technologies, such as those developed by Pacific Biosciences and Oxford Nanopore, provide longer reads that can cover entire transcripts, thereby improving the precision of transcriptome analysis.
 
-Data analysis in RNA-seq requires a suite of computational tools and algorithms to manage the substantial amounts of data generated. Tools like MAJIQ V3 offer enhanced capabilities for analyzing splicing events, enabling researchers to quantify and visualize alternative splicing from RNA-seq data. Additionally, single-cell RNA sequencing (scRNA-seq) has emerged as a powerful method for investigating cellular heterogeneity, allowing for the analysis of gene expression at the single-cell level. This technique is particularly beneficial in cancer research, where it can uncover gene expression variations that contribute to tumor heterogeneity.
+Data analysis in RNA-seq requires a suite of computational tools and algorithms to manage the substantial amounts of data generated. Tools like MAJIQ V3 offer enhanced capabilities for analyzing splicing events, enabling researchers to quantify and visualize alternative splicing from RNA-seq data. Additionally, single-cell RNA sequencing (scRNA-seq) has emerged as a powerful method for investigating cellular heterogeneity, allowing for gene expression analysis at the single-cell level. This technique is particularly beneficial in cancer research, where it can uncover gene expression variations that contribute to tumor heterogeneity.
 
 **Conclusion**
 
