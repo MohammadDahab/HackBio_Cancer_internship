@@ -11,12 +11,12 @@ RNA sequencing (RNA-Seq) leverages high-throughput sequencing to explore the tra
 
  RNA-seq, or RNA sequencing, utilizes high-throughput sequencing to identify the nucleotide sequence of RNA molecules and measure the abundance of different RNA species within a population. This analysis requires specialized computational tools to address sequencing errors, fragment biases, and other technological limitations. RNA-seq has led to significant scientific advancements, including discovering new therapies, a deeper understanding of genetic regulation, and identifying biomarkers and pathogenic mutations. The process of preparing an RNA-seq library begins with extracting and isolating RNA from a biological sample, such as a cell line or frozen tissue. For short-read sequencing, the isolated RNA is converted into cDNA through reverse transcription, then amplified using PCR and fragmented into short sequences. Once processed, the RNA-seq library is used as input for a sequencing platform to generate reads.(Deshpande et al., 2023)
 
- 
+ ![Screenshot 2024-09-03 000454](https://github.com/user-attachments/assets/b074b573-71d3-47ea-8ea5-b79d440a24cb)
+
 
 <!--[if !mso]-->
 
-|                                                                                                               |
-| ------------------------------------------------------------------------------------------------------------- |
+
 | <!--[endif]-->Fig.1 overview main steps of rna-sequencing technology.(Deshpande et al., 2023)<!--[if !mso]--> |
 
 <!--[endif]--> The main steps for RNA-seq data analysis include 1-Experimental Design, which involves selecting the appropriate library type, sequencing depth, and number of biological replicates. 2-Quality Control, assessing the quality of raw sequencing data to identify any issues that may affect downstream analysis. 3-Read Alignment, aligning the sequenced reads to a reference genome or transcriptome or performing de novo assembly if no reference is available. 4-Quantification of Gene and Transcript Levels. Measuring the expression levels of genes and transcripts from the aligned reads. 5-Differential Gene Expression Analysis. Identifying genes that show statistically significant differences in expression. 6-Functional Analysis. Characterizing the biological functions or pathways associated with differentially expressed genes (DEGs). 7-Visualization. Creating visual representations of the data, such as heat maps or volcano plots. 8-Advanced Analyses. This may include exploring alternative splicing, gene fusion detection, and integrating RNA-seq data with other functional genomics techniques.(Conesa et al., 2016)
