@@ -1,6 +1,6 @@
 # HackBio_Cancer_internship
-##Stage_Zero
-###**RNA-Seq**
+## Stage_Zero
+### **RNA-Seq**
 
 **Author: Mohammed Dahab (@M\_Dahab7)**
 
